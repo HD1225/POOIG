@@ -1,6 +1,6 @@
 # POOIG
 
-# Two "conceptually related" games written in java: Dominos carrés et Carcassonne.
+Two "conceptually related" games written in java: Dominos carrés et Carcassonne.
 
 - Groupe 80
 - HOU Dan : 22215394
