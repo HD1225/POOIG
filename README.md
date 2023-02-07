@@ -1,5 +1,7 @@
 # POOIG
 
+Two "conceptually related" games written in java: Dominos carrés et Carcassonne.
+
 - Groupe 80
 - HOU Dan : 22215394
 - HGO Trung Hieu : 22206992
